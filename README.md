@@ -3,7 +3,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-vaishnavijha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vaishnavijha/)](https://www.linkedin.com/in/vaishnavijha/)  
 
 
-'Im a final year student pursuing Bachelors's in Computer Science 🎓 from Delhi University 🏛. I'm currently into Hybrid Mobile Application Development :iphone: .
+I am a final year student pursuing Bachelors's in Computer Science 🎓 from Delhi University 🏛. I'm currently into Hybrid Mobile Application Development :iphone: .
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### About
 -  **Learning :** Full-Stack :zap: | Open-Source :fire:	
