@@ -14,7 +14,9 @@ I am a Bachelors's in Computer Science Graduate 🎓 from Delhi University 🏛.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-![Vaishnavi Jha Github Stats](https://github-readme-stats.vercel.app/api?username=VaishnaviJha786&show_icons=true)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=VaishnaviJha786&show_icons=true)
+![Programming stats](https://github-readme-stats.vercel.app/api/top-langs/?username=VaishnaviJha786&show_icons=true&hide_border=true")-->
+
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
