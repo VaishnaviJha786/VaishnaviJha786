@@ -3,7 +3,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-vaishnavijha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vaishnavijha/)](https://www.linkedin.com/in/vaishnavijha/)  
 
 
-I am a Bachelors's in Computer Science Graduate 🎓 from Delhi University 🏛. I'm currently into Hybrid Mobile Application Development :iphone: .
+I am a Masters of Computer Science student🎓 from Department of Computer Science, University of Delhi 🏛. 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### About
 -  **Learning :** Full-Stack :zap: | Open-Source :fire:	
