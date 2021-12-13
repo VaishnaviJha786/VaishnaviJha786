@@ -8,8 +8,6 @@ I am a Masters of Computer Science student🎓 from Department of Computer Scien
 ### About
 -  **Learning :** Full-Stack :zap: | Open-Source :fire:	
 -  **Hobbies :** Books :books: | Music :headphones:
--  **Ask me about :** Anything!, I'm happy to help :v:
--  **Fun fact :** First solve the problem, then write the code :heart: Best way to implement solutions:heart: 
 -  **Pronouns :** She/Her :innocent:
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
